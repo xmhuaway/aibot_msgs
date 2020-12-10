@@ -55,6 +55,10 @@ add_message_files(
   ServoCtrl.msg
   MotorCtrl.msg
   LedCtrl.msg
+  Oled.msg
+  PinMode.msg
+  PinValue.msg
+  Platform.msg
   )
 
 ## Generate services in the 'srv' folder
