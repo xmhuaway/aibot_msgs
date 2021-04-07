@@ -67,12 +67,12 @@ add_message_files(
 #   Service1.srv
 #   Service2.srv
 # )
-add_service_files(
-  FILES
+# add_service_files(
+#   FILES
   # ServoCtrl.srv
   # MotorCtrl.srv
   # LedCtrl.srv
-)
+#)
 
 ## Generate actions in the 'action' folder
 # add_action_files(
